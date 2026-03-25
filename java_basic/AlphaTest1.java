@@ -16,7 +16,7 @@ package day2;
 //위의 결과를 만들기 위해서 변수선언과 식 정의를 어떻게 하면 될지 잘 해결해 본다.
 //(if 문을 사용해도 되지만 if 문을 사용하지 않고 해결할 수 있다.^^)
 
-public class AlphaTest {
+public class AlphaTest1 {
 	public static void main(String[] args) {
 		int num = (int)(Math.random() * 26) + 1; //1를 A라고 두고, 점점 증가하면 알파벳도 다음 순서로 넘어감
 		System.out.println((char)(num+64)); //아스킬코드에서 65가 a임 그래서 1+64를 해서 A로 만들어줌. 그 뒤에 알파벳도 마찬가지. 
