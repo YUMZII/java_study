@@ -1,4 +1,3 @@
-package jdbcexam;
 // 데이터 삽입 방법
 import java.sql.Connection;
 import java.sql.DriverManager;
