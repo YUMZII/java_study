@@ -1,4 +1,3 @@
-package lambdalab;
 import java.util.Random;
 
 @FunctionalInterface
