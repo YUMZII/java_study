@@ -1,5 +1,3 @@
-package day3;
-
 // [ 실습3 ] - while 문은 무한루프 처리하고 루프를 끝낼 때는 break 문 사용
 
 // 1. WhileLab3 라는 클래스를 생성한다.
