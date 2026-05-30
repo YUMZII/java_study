@@ -1,4 +1,3 @@
-package day2;
 public class IfTest6 {
 	public static void main(String[] args) {
 		int month = (int)(Math.random() * 12) + 1; // 1~12
