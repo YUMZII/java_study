@@ -1,5 +1,3 @@
-package day2;
-
 public class SwitchTest3 {
 	public static void main(String[] args) {
 		int score = (int)(Math.random()*101); //0~100
