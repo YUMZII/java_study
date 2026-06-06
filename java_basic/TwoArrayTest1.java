@@ -1,5 +1,3 @@
-package day4;
-
 public class TwoArrayTest3 {
 	public static void main(String[] args) {
 		int[][] twoA = { {1,2,3}, 
