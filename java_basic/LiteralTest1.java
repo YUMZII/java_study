@@ -1,5 +1,3 @@
-package day1;
-
 public class LiteralTest3 {
 	public static void main(String[] args) {
 		System.out.println("123456789t123456789t123456789");
