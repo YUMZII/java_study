@@ -1,5 +1,3 @@
-package day2;
-
 public class RandomTest {
 	public static void main(String[] args) {
 		double rand = Math.random();// 자바가 내장하고 있는 api, 대문자애들은 클래스임 
