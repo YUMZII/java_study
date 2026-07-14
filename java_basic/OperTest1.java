@@ -1,5 +1,3 @@
-package day2;
-
 public class OperTest2 {
 
 	public static void main(String[] args) {
