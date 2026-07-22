@@ -1,4 +1,3 @@
-package day2;
 public class OperTest4 {
 	public static void main(String[] args) {
 		int num=10; // num은 하나의 변수라서 값이 계속 바뀌고 유지됨 -> 계속 누적됨
